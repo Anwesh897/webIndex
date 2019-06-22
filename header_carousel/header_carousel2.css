@@ -1,0 +1,1700 @@
+
+/* carousel responsiveness*/
+@media screen and (max-width:6043px) {
+    img{
+        width: 99%;
+        height: 1250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1270px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1250px;
+        }
+        to{
+            width: 100%;
+            height:1250px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5913px) {
+    img{
+        width: 99%;
+        height: 1220px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1250px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1220px;
+        }
+        to{
+            width: 100%;
+            height:1220px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5783px) {
+    img{
+        width: 99%;
+        height: 1190px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1210px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1190px;
+        }
+        to{
+            width: 100%;
+            height:1190px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5653px) {
+    img{
+        width: 99%;
+        height: 1160px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1180px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1160px;
+        }
+        to{
+            width: 100%;
+            height:1160px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5523px) {
+    img{
+        width: 99%;
+        height: 1130px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1150px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1130px;
+        }
+        to{
+            width: 100%;
+            height:1130px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5393px) {
+    img{
+        width: 99%;
+        height: 1100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1120px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1100px;
+        }
+        to{
+            width: 100%;
+            height:1100px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5263px) {
+    img{
+        width: 99%;
+        height: 1070px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1090px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1070px;
+        }
+        to{
+            width: 100%;
+            height:1070px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5133px) {
+    img{
+        width: 99%;
+        height: 1040px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1060px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1040px;
+        }
+        to{
+            width: 100%;
+            height:1040px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:5003px) {
+    img{
+        width: 99%;
+        height: 1010px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1030px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 1010px;
+        }
+        to{
+            width: 100%;
+            height:1010px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:4873px) {
+    img{
+        width: 99%;
+        height: 980px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 1000px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 980px;
+        }
+        to{
+            width: 100%;
+            height:980px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:4743px) {
+    img{
+        width: 99%;
+        height: 950px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 970px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 950px;
+        }
+        to{
+            width: 100%;
+            height:950px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ } 
+  @media screen and (max-width:4613px) {
+    img{
+        width: 99%;
+        height: 920px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 940px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 920px;
+        }
+        to{
+            width: 100%;
+            height:920px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:4483px) {
+    img{
+        width: 99%;
+        height: 890px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 910px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 890px;
+        }
+        to{
+            width: 100%;
+            height:890px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ } 
+  @media screen and (max-width:4353px) {
+    img{
+        width: 99%;
+        height: 860px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 880px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 860px;
+        }
+        to{
+            width: 100%;
+            height:860px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ } 
+  @media screen and (max-width:4223px) {
+    img{
+        width: 99%;
+        height: 830px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 850px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 830px;
+        }
+        to{
+            width: 100%;
+            height:830px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:4093px) {
+    img{
+        width: 99%;
+        height: 810px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 830px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 810px;
+        }
+        to{
+            width: 100%;
+            height:810px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3963px) {
+    img{
+        width: 99%;
+        height: 780px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 800px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 780px;
+        }
+        to{
+            width: 100%;
+            height:780px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3833px) {
+    img{
+        width: 99%;
+        height: 750px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 770px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 750px;
+        }
+        to{
+            width: 100%;
+            height:750px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3703px) {
+    img{
+        width: 99%;
+        height: 720px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 740px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 720px;
+        }
+        to{
+            width: 100%;
+            height:720px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3573px) {
+    img{
+        width: 99%;
+        height: 690px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 710px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 690px;
+        }
+        to{
+            width: 100%;
+            height:690px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3443px) {
+    img{
+        width: 99%;
+        height: 660px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 680px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 660px;
+        }
+        to{
+            width: 100%;
+            height:660px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+  @media screen and (max-width:3313px) {
+    img{
+        width: 99%;
+        height: 630px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 650px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 630px;
+        }
+        to{
+            width: 100%;
+            height:630px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3183px) {
+    img{
+        width: 99%;
+        height: 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 620px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 600px;
+        }
+        to{
+            width: 100%;
+            height:600px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:3053px) {
+    img{
+        width: 99%;
+        height: 570px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 590px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 570px;
+        }
+        to{
+            width: 100%;
+            height:570px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2923px) {
+    img{
+        width: 99%;
+        height: 540px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 570px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 540px;
+        }
+        to{
+            width: 100%;
+            height:540px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2793px) {
+    img{
+        width: 99%;
+        height: 510px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 530px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 510px;
+        }
+        to{
+            width: 100%;
+            height:510px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2663px) {
+    img{
+        width: 99%;
+        height: 480px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 500px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 480px;
+        }
+        to{
+            width: 100%;
+            height:480px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2533px) {
+    img{
+        width: 99%;
+        height: 450px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 470px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 450px;
+        }
+        to{
+            width: 100%;
+            height:450px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2403px) {
+    img{
+        width: 99%;
+        height: 420px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 440px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 420px;
+        }
+        to{
+            width: 100%;
+            height:420px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2273px) {
+    img{
+        width: 99%;
+        height: 390px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 410px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 390px;
+        }
+        to{
+            width: 100%;
+            height:390px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2143px) {
+    img{
+        width: 99%;
+        height: 360px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 380px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 360px;
+        }
+        to{
+            width: 100%;
+            height:360px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:2013px) {
+    img{
+        width: 99%;
+        height: 330px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 350px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 330px;
+        }
+        to{
+            width: 100%;
+            height:330px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  
+  @media screen and (max-width:1883px) {
+    img{
+        width: 99%;
+        height: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 320px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 300px;
+        }
+        to{
+            width: 100%;
+            height:300px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:1753px) {
+    img{
+        width: 99%;
+        height: 270px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 290px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 270px;
+        }
+        to{
+            width: 100%;
+            height:270px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:1623px) {
+    img{
+        width: 99%;
+        height: 260px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 280px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 260px;
+        }
+        to{
+            width: 100%;
+            height:260px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:1493px) {
+    img{
+        width: 99%;
+        height: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 270px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 250px;
+        }
+        to{
+            width: 100%;
+            height:250px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+  @media screen and (max-width:1363px) {
+    img{
+        width: 99%;
+        height: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 270px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 250px;
+        }
+        to{
+            width: 100%;
+            height:250px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:1233px) {
+    img{
+        width: 99%;
+        height: 220px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 240px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 220px;
+        }
+        to{
+            width: 100%;
+            height:220px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:1103px) {
+    img{
+        width: 100%;
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 220px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 98%;
+            height: 200px;
+        }
+        to{
+            width: 100%;
+            height:200px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:973px) {
+    img{
+        width: 100%;
+        height: 190px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 210px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 98%;
+            height: 190px;
+        }
+        to{
+            width: 100%;
+            height:190px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:843px) {
+    img{
+        width: 100%;
+        height: 170px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 190px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 98%;
+            height: 170px;
+        }
+        to{
+            width: 100%;
+            height:170px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:713px) {
+    img{
+        width: 99%;
+        height: 150px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 170px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 150px;
+        }
+        to{
+            width: 100%;
+            height:150px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+
+ @media screen and (max-width:583px) {
+    img{
+        width: 99%;
+        height: 130px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 150px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 130px;
+        }
+        to{
+            width: 100%;
+            height:130px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:518px) {
+    img{
+        width: 99%;
+        height: 110px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 130px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 98%;
+            height: 110px;
+        }
+        to{
+            width: 100%;
+            height:110px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:453px) {
+    img{
+        width: 99%;
+        height: 100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 120px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 100px;
+        }
+        to{
+            width: 100%;
+            height:100px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }  @media screen and (max-width:388px) {
+    img{
+        width: 99%;
+        height: 90px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 100px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 90px;
+        }
+        to{
+            width: 100%;
+            height:90px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:323px) {
+    img{
+        width: 99%;
+        height: 80px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 90px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 80px;
+        }
+        to{
+            width: 100%;
+            height:80px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:258px) {
+    img{
+        width: 99%;
+        height: 70px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 80px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 70px;
+        }
+        to{
+            width: 100%;
+            height:70px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:193px) {
+    img{
+        width: 99%;
+        height: 60px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 70px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 60px;
+        }
+        to{
+            width: 100%;
+            height:60px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:128px) {
+    img{
+        width: 99%;
+        height: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 60px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 50px;
+        }
+        to{
+            width: 100%;
+            height:50px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ @media screen and (max-width:63px) {
+    img{
+        width: 99%;
+        height: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.986);
+    
+       /* background-color: #f1f1f1;*/
+    }
+    #carousel{
+        width: 100%;
+        margin:0;
+        height: 50px;
+        background-color:black;
+        /*box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);*/
+    }
+    @keyframes popup{
+        from{
+            width: 96%;
+            height: 40px;
+        }
+        to{
+            width: 100%;
+            height:40px;
+        }
+    }
+    img:hover{
+        animation: popup 0.1s ;
+        animation-iteration-count: 1;
+    }
+ }
+ 

@@ -1,0 +1,24 @@
+#player{
+    border: 1px solid green;
+    width: 100%;
+    height: 80px;
+    box-shadow: 4px 4px 6px rgba(6, 1, 23, 0.986), 4px 4px 2px rgba(0, 0, 0, 0.719);
+    text-align: center;
+}
+#buttonPlay {
+    width: 74px;
+    height:74px;
+    border-style:solid;
+    border-width: 37px 0px 37px 74px;
+    border-color: transparent transparent transparent #202020;    
+    box-sizing: border-box;
+    
+}
+#buttonPause{
+    width: 74px;
+    height: 74px;
+    border-style: double;
+    border-width: 0px 0px 0px 37px;
+    border-color: #202020;
+
+}

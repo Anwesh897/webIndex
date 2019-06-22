@@ -1,0 +1,42 @@
+#image{
+    width: 100%;
+}
+body{
+    margin: 0;
+}
+
+#sidebarLeft{
+    background-color: #bccddc;
+    height: 100%;
+    overflow: auto;
+    margin: 0;
+    padding:0;
+    width:200px;
+    position: fixed;
+
+}
+#sidebarRight{
+    background-color: #5497d2;
+    height: 100%;
+    overflow: auto;
+    margin-bottom: -100%;
+    padding-bottom:100%;
+    width:300px;
+    float: right;
+}
+
+@media screen and (max-width:500px){
+    #sidebarLeft{
+        height: 70px;
+        overflow: auto;
+        margin: 0;
+        padding:0;
+        width:100%;   
+        bottom: 0px; 
+    } 
+}
+
+
+
+
+     

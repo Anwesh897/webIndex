@@ -1,0 +1,31 @@
+body #disk{
+    margin:auto;
+    width: 100px;
+    height: 100px;
+    box-shadow: 4px 4px 6px rgba(6, 1, 23, 0.986), 4px 4px 2px rgba(0, 0, 0, 0.719);
+}
+
+
+#player{
+    display: inline-block;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#player img{
+    width: auto;
+    height: 100%;
+    margin-left: -40px;
+    animation: img-spin infinite 10s linear;
+}
+
+@keyframes img-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

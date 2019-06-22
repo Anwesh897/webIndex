@@ -1,0 +1,54 @@
+img{
+    width:500px;
+    height:250px;
+    vertical-align: middle;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+* {
+    box-sizing: border-box;
+  }
+.container{
+    position: relative;
+}
+.mySlides{
+    display: none;
+}
+.prev,.next{
+    cursor: pointer;
+    position: absolute;
+    top: 98%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+
+  

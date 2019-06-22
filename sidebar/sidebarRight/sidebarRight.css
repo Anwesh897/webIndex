@@ -1,0 +1,30 @@
+img{
+    width: 100%;
+    height: auto;
+}
+body{
+    margin: 0;
+}
+
+#sidebarLeft{
+    background-color: #bccddc;
+    height: 100%;
+    overflow: auto;
+    margin: 0;
+    padding:0;
+    width:200px;
+    position: fixed;
+
+}
+#sidebarRight{
+    background-color: #bccddc;
+    height: 100%;
+    overflow: auto;
+    margin-bottom: -100%;
+    padding-bottom:100%;
+    width:300px;
+    float: right;
+}
+
+
+     

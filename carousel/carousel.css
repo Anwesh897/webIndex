@@ -1,0 +1,50 @@
+img{
+    width: 99%;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px rgba(6, 1, 23, 0.986);
+
+   /* background-color: #f1f1f1;*/
+}
+div{
+    width: 100%;
+    margin:0;
+    height: 270px;
+    background-color: aqua;
+
+}
+body{
+    margin:0;
+    background-color:white;
+}
+img:hover{
+    animation: popup 0.1s ;
+    animation-iteration-count: 1;
+}
+@keyframes popup{
+    from{
+        width: 99%;
+        height: 250px;
+    }
+    to{
+        width: 101%;
+        height:250px;
+    }
+}
+* {
+    box-sizing: border-box;
+  }
+  
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
