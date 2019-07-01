@@ -5,7 +5,7 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $('#id02 p').click(function(){
-        $('#id02 ul').toggle(1000);
+        $('#id02 ul').toggle(1000);   
     });
 });
 
